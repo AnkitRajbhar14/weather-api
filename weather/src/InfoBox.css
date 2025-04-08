@@ -1,0 +1,13 @@
+.InfoBox{
+    text-align: center;
+}
+
+.cardConatiner{
+    display: flex;
+    justify-content: center;
+}
+
+.icon{
+     margin-left: 18px;
+     margin-top: 5px;
+}
